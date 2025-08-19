@@ -1,5 +1,5 @@
 name: KillEffect
-version: '2.4.0.1'
+version: '2.6'
 main: me.dominikhun250.hu.plugin.KT
 api-version: '1.21'
 authors: [ Dominikhun250 ]
@@ -135,8 +135,12 @@ permissions:
     description: Use the cryo core kill effect
     default: op
 
-  kt.aurafarming.use:
-    description: Use the aura farming kill effect
+  kt.shockwawe.use:
+    description: Use the shockwawe kill effect
+    default: op
+
+  kt.skeleton.use:
+    description: Use the skeleton kill effect
     default: op
 
   kt.mace.use:

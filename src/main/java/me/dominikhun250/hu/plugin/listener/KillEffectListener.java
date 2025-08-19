@@ -5,6 +5,7 @@ import me.dominikhun250.hu.plugin.cooldown.CooldownManager;
 import me.dominikhun250.hu.plugin.economy.EconomyManager;
 import me.dominikhun250.hu.plugin.effects.KillEffect;
 import me.dominikhun250.hu.plugin.effects.KillEffectFactory;
+import me.dominikhun250.hu.plugin.effects.list.skeleton.SkeletonEffect;
 import me.dominikhun250.hu.plugin.events.EventManager;
 import me.dominikhun250.hu.plugin.storage.EffectStorage;
 import org.bukkit.ChatColor;
@@ -66,7 +67,11 @@ public class KillEffectListener implements Listener {
         KillEffect effect = KillEffectFactory.getEffect(effectName);
         if (effect == null) return;
 
-        effect.play(killer, victim.getLocation());
+                if (effect instanceof SkeletonEffect) {
+            ((SkeletonEffect) effect).play((Player) victim, victim.getLocation());
+        } else {
+            effect.play(killer, victim.getLocation());
+        }
 
         plugin.getEventManager().triggerRandomEvent(killer, victim);
     }

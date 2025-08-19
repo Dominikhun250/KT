@@ -6,7 +6,7 @@
 
     <groupId>me.dominikhun250.hu</groupId>
     <artifactId>KillEffect</artifactId>
-    <version>2.4.0.1</version>
+    <version>2.6</version>
     <packaging>jar</packaging>
 
     <name>KillEffect</name>
