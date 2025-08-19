@@ -1,8 +1,9 @@
-name: KT
-version: '${project.version}'
-main: com.monkey.kt.KT
-author: MonkeyMoon104
-api-version: '1.13'
+name: KillEffect
+version: '2.4.0.1'
+main: me.dominikhun250.hu.plugin.KT
+api-version: '1.21'
+authors: [ Dominikhun250 ]
+website: https://dominikhun250.dev/
 depend:
   - LuckPerms
   - WorldGuard
@@ -141,3 +142,4 @@ permissions:
   kt.mace.use:
     description: Use the mace kill effect
     default: op
+

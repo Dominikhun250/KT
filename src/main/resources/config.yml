@@ -188,6 +188,21 @@ effects:
       value: 0
       radius: 0
 
+  shockwawe:
+    enabled: true
+    name: "&ashockwawe"
+    description: "&aSoul fly up and down"
+    price: 700
+    effectexplosion:
+      enabled: true
+      type: BLINDNESS
+      amplifier: 1
+      duration: 3
+    damage:
+      enabled: true
+      value: 1
+      radius: 7
+
   cloud:
     enabled: true
     name: "&fCloud"
