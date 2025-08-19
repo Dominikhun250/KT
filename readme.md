@@ -1,10 +1,10 @@
 
 # 🔥 KillEffect Plugin
 
-[![Version](https://img.shields.io/github/v/release/MonkeyMoon104/KT?style=for-the-badge)](https://github.com/MonkeyMoon104/KT/releases/latest)
+[![Version](https://img.shields.io/github/v/release/Dominikhun250/KT?style=for-the-badge)](https://github.com/Dominikhun250/KT/releases/latest)
 [![SpigotMC](https://img.shields.io/badge/SpigotMC-KT-orange?style=for-the-badge&logo=spigotmc)](https://www.spigotmc.org/resources/1-17-1-21-killeffects.125998/)
 [![Download JAR](https://img.shields.io/badge/Download-JAR-brightgreen?style=for-the-badge&logo=java)](https://www.spigotmc.org/resources/1-17-1-21-killeffects.125998/download?version=598469)
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blueviolet?style=for-the-badge&logo=github)](https://github.com/MonkeyMoon104/KT/archive/refs/heads/master.zip)
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blueviolet?style=for-the-badge&logo=github)](https://github.com/Dominikhun250/KT/archive/refs/heads/master.zip)
 
 ---
 
@@ -359,7 +359,7 @@ effects:
 <details>
   <summary>✨ Click to request one</summary>
 
-> 💬 Contact MonkeyMoon104 to request your own custom kill effect!
+> 💬 Contact Dominikhun250 to request your own custom kill effect!
 > Custom particles, sounds, and animations can be added on request.
 
 </details>
@@ -405,7 +405,7 @@ If you enjoy using **KillEffect**, consider giving it a ⭐ on GitHub and sharin
 ## 📫 Connect
 
 Want to suggest a feature, report a bug, or contribute?
-➡️ [Open an issue](https://github.com/MonkeyMoon104/KT/issues) or [create a pull request](https://github.com/MonkeyMoon104/KT/pulls)
+➡️ [Open an issue](https://github.com/Dominikhun250/KT/issues) or [create a pull request](https://github.com/Dominikhun250/KT/pulls)
 
 ---
 
