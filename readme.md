@@ -119,15 +119,16 @@
 | `kt.killcoins.reset`   | Reset killcoins                            |
 | `kt.killcoins.bal`     | Show killcoins                             |
 | `kt.fire.use`          | Use the **Fire** effect 🔥                 |
-| `kt.lightning.use`     | Use the **Lightning** effect ⚡             |
+| `kt.lightning.use`     | Use the **Lightning** effect ⚡            |
 | `kt.explosion.use`     | Use the **Explosion** effect 💥            |
 | `kt.hearts.use`        | Use the **Hearts** effect 💖               |
 | `kt.notes.use`         | Use the **Notes** effect 🎵                |
 | `kt.cloud.use`         | Use the **Cloud** effect ☁️                |
-| `kt.smoke.use`         | Use the **Smoke** effect 🌫️               |
+| `kt.smoke.use`         | Use the **Smoke** effect 🌫️                |
 | `kt.totem.use`         | Use the **Totem** effect 🔮                |
 | `kt.end.use`           | Use the **End** effect (Enderman style) 👾 |
 | `kt.pigstep.use`       | Use the **PigStep** effect 🐽              |
+| `kt.shockwawe.use`     | Use the **Shockwawe** effect 🌫️            |
 | `kt.warden.use`        | Use the **Warden** effect 👹               |
 | `kt.glowmissile.use`   | Use the **GlowMissile** effect 🚀          |
 | `kt.sniper.use`        | Use the **Sniper** effect 🔫               |
@@ -359,8 +360,8 @@ effects:
 <details>
   <summary>✨ Click to request one</summary>
 
-> 💬 Contact Dominikhun250 to request your own custom kill effect!
-> Custom particles, sounds, and animations can be added on request.
+> 💬 Contact MonkeyMoon104 to request your own custom kill effect!
+> Custom particles, sounds, and animations can be added on request. MonkeyMoon104 is the original creator.
 
 </details>
 
